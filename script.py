@@ -37,6 +37,6 @@ Bot will automatically search for your file and give links to that!
 
 🔲<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
 
-🔲<b>NFLK Bot :</b> <a href='https://t.me/NetflixLK_bot</a> 
+🔲<b>NFLK Bot :</b> '@NetflixLK_bot' 
 
 """
